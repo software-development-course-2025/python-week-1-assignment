@@ -2,8 +2,6 @@
 
 A beginner-friendly Python program that performs basic arithmetic operations — addition, subtraction, multiplication, and division — based on user input.
 
----
-
 ## 🚀 How It Works
 
 1. Asks the user for two numbers  
@@ -18,20 +16,14 @@ Enter the second number: 5
 Enter an operation (+, -, *, /): *  
 10.0 * 5.0 = 50.0
 
----
-
 ## 📂 File
 
 - `calculator.py`: Main program file
-
----
 
 ## 🧑‍💻 Author
 
 Augusto Mate  
 📧 mate.augusto.mz@gmail.com
-
----
 
 ## 🪪 License
 
